@@ -1,1 +1,3 @@
-# .github
+# Stanford Comptastics
+
+Welcome to the Comptastics team repository. Comptastics (computation and statistics) is [John Duchi's](https://web.stanford.edu/~jduchi) research group. Our work spans statistical learning, optimization, information theory, and computation, with a few driving goals. (1) To discover statistical learning procedures that optimally trade between real-world resources---computation, communication, privacy provided to study participants---while maintaining statistical efficiency. (2) To build efficient large-scale optimization methods that address the spectrum of optimization, machine learning, and data analysis problems we face, allowing us to move beyond bespoke solutions to methods that robustly work. (3) To develop tools to assess and guarantee the validity of---and confidence we should have in---machine-learned systems.
